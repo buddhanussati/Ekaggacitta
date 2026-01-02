@@ -1,6 +1,7 @@
 # Nhất Tâm (Ekaggacitta)
 
 **Nhất Tâm** là một công cụ tăng năng suất theo phong cách "không khoan nhượng" dành cho Windows, được xây dựng bằng AutoHotkey v2. Ứng dụng này dành cho những người thường xuyên tự phá vỡ quy tắc của chính mình khi sử dụng các ứng dụng hẹn giờ thông thường. Không giống như các app khác, **Nhất Tâm** ngăn chặn triệt để việc bạn tìm cách đóng ứng dụng hoặc truy cập vào các nội dung gây xao nhãng cho đến khi công việc hoàn thành.
+
 ![image](https://github.com/user-attachments/assets/7ec7b82e-89fa-4bdf-97e1-248cf415aa0b)
 
 ## 🚀 Tính Năng Chính
